@@ -86,13 +86,32 @@ I believe technology should be created with intention—to solve problems and cr
   <img title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman"/>
 </p>
 
-### Currently Learning
+### 📚 Currently Learning
+
 <p>
-  
-  <img title="Kali Linux" alt="Kali Linux" src="https://skillicons.dev/icons?i=kalilinux"/>
-  <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker"/> 
-  <img title="AWS" alt="AWS" src="https://skillicons.dev/icons?i=aws"/> 
-  <img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/> 
+  <a href="https://nextjs.org/" title="Next.js">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  </a>
+
+  <a href="https://nodejs.org/" title="Node.js">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+
+  <a href="https://expressjs.com/" title="Express.js">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  </a>
+
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
+
+  <a href="https://aws.amazon.com/" title="AWS">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+
+  <a href="https://www.kali.org/" title="Kali Linux">
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  </a>
 </p>
 
 ---
