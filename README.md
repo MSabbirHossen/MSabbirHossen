@@ -12,6 +12,17 @@
 
 ---
 
+## 📈 GitHub Analytics
+
+ <p align="center">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSabbirHossen&theme=github-dark&hide_border=true" />
+              </p>
+              <p align="center">
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true" />
+              </p>
+
+---
+
 ## 🚀 About Me
 
 I'm a Bangladeshi student currently studying Arabic at the **Islamic University of Madinah (Saudi Arabia)** while pursuing a career in **Software Engineering**.
@@ -96,16 +107,6 @@ A vibrant, urban-themed web application for discovering, exploring, and download
 - 🔗 **Live Demo:** [PROJECT_LINK](https://online-game-library.web.app/)
 - 🔗 **Repository:** [GameHub_REPO_LINK](https://github.com/MSabbirHossen/Online-Game-Library.git)
 
----
-
-## 📈 GitHub Analytics
-
- <p align="center">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSabbirHossen&theme=github-dark&hide_border=true" />
-              </p>
-              <p align="center">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true" />
-              </p>
 
 ---
 
