@@ -88,6 +88,7 @@ I believe technology should be created with intention—to solve problems and cr
 
 ### Currently Learning
 <p>
+  
   <img title="Kali Linux" alt="Kali Linux" src="https://skillicons.dev/icons?i=kalilinux"/>
   <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker"/> 
   <img title="AWS" alt="AWS" src="https://skillicons.dev/icons?i=aws"/> 
