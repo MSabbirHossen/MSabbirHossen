@@ -119,6 +119,7 @@ A vibrant, urban-themed web application for discovering, exploring, and download
 - ✅ [Spreadsheets for Beginners using Google Sheets](https://github.com/MSabbirHossen/certifications/blob/main/Spreadsheets%20for%20Beginners%20using%20Google%20Sheets.jpg)
 - ✅ [The Python Tutorial by W3Schools](https://github.com/MSabbirHossen/certifications/blob/main/The%20Python%20Tutorial%20by%20W3Schools.jpg)
 - ✅ [VSCode Shortcuts & Extensions for Web Developer](https://github.com/MSabbirHossen/certifications/blob/main/VSCode%20Shortcuts%20%26%20Extensions%20for%20Web%20Developers.jpg)
+- ✅ [ঘরে বসে Spoken English](https://github.com/MSabbirHossen/certifications/blob/main/%E0%A6%98%E0%A6%B0%E0%A7%87%20%E0%A6%AC%E0%A6%B8%E0%A7%87%20Spoken%20English.jpg)
 - ✅ Basic IT Course
 - 🚧 More certifications coming soon...
 
@@ -154,7 +155,7 @@ A vibrant, urban-themed web application for discovering, exploring, and download
 | 📍 **Location** | Madinah, Saudi Arabia |
 | 📧 **Email** | mshossen724@gmail.com |
 | 🌐 **Portfolio** | [PORTFOLIO_URL](https://portfolio-mshossen.netlify.app/) |
-| 💼 **LinkedIn** | [LINKEDIN_Profile](https://web.facebook.com/sabb1rhossen/) |
+| 💼 **LinkedIn** | [LINKEDIN_PORFILE](https://web.facebook.com/sabb1rhossen/) |
 
 ---
 
