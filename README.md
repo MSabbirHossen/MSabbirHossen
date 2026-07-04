@@ -15,17 +15,17 @@
 ## 📈 GitHub Analytics
 
  <p align="center">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSabbirHossen&theme=github-dark&hide_border=true" />
-              </p>
-              <p align="center">
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true" />
-              </p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSabbirHossen&theme=github-dark&hide_border=true" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true" />
+  </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Bangladeshi student currently studying Arabic at the **Islamic University of Madinah (Saudi Arabia)** while pursuing a career in **Software Engineering**.
+I'm a Bangladeshi student currently studying at the **Islamic University of Madinah (Saudi Arabia)** pursuing a career in **Software Engineering**.
 
 I enjoy designing modern web applications, solving real-world problems through code, and continuously learning new technologies. My goal is to become a professional **Full-Stack Developer** while building solutions with purpose.
 
@@ -49,43 +49,44 @@ I believe technology should be created with intention—to solve problems and cr
 ## 💻 Tech Stack
 
 ### Frontend
-<p> <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html"/> 
-<img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css"/> 
-<img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript"/> 
-<img title="React" alt="React" src="https://skillicons.dev/icons?i=react"/> 
-<img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs"/> 
-<img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/>
+<p>
+  <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html"/>
+  <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css"/>
+  <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript"/>
+  <img title="React" alt="React" src="https://skillicons.dev/icons?i=react"/>
+  <img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs"/>
+  <img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/>
 </p>
 
 ### Backend
 <p>
-<img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/> 
-<img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express"/> 
-<img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/> 
-<img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase"/>
+  <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/>
+  <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express"/>
+  <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>
+  <img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase"/>
 </p>
 
 ### Languages & Databases
 <p>
-<img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python"/> 
-<img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript"/> 
-<img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>
+  <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python"/>
+  <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript"/>
+  <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>
 </p>
 
 ### Tools & Platforms
 <p>
-<img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git"/> 
-<img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github"/> 
-<img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/> 
-<img title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman"/>
+  <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git"/>
+  <img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>
+  <img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>
+  <img title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman"/>
 </p>
 
 ### Currently Learning
 <p>
-<img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker"/> 
-<img title="AWS" alt="AWS" src="https://skillicons.dev/icons?i=aws"/> 
-<img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/> 
-<img title="Kali Linux" alt="Kali Linux" src="https://skillicons.dev/icons?i=kalilinux"/>
+  <img title="Kali Linux" alt="Kali Linux" src="https://skillicons.dev/icons?i=kalilinux"/>
+  <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker"/> 
+  <img title="AWS" alt="AWS" src="https://skillicons.dev/icons?i=aws"/> 
+  <img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/> 
 </p>
 
 ---
@@ -113,7 +114,11 @@ A vibrant, urban-themed web application for discovering, exploring, and download
 ## 🏆 Certifications & Achievements
 
 - ✅ IELTS Academic — Band 7.0
-- ✅ HTML & CSS (Real-World Projects)
+- ✅ [Master Git and GitHub – Beginner to Expert](https://github.com/MSabbirHossen/certifications/blob/main/Master%20Git%20and%20GitHub%20%E2%80%93%20Beginner%20to%20Expert.jpg)
+- ✅ [Master HTML and CSS by Building Real-World Project](https://github.com/MSabbirHossen/certifications/blob/main/Master%20HTML%20and%20CSS%20by%20Building%20Real-World%20Project.jpg)
+- ✅ [Spreadsheets for Beginners using Google Sheets](https://github.com/MSabbirHossen/certifications/blob/main/Spreadsheets%20for%20Beginners%20using%20Google%20Sheets.jpg)
+- ✅ [The Python Tutorial by W3Schools](https://github.com/MSabbirHossen/certifications/blob/main/The%20Python%20Tutorial%20by%20W3Schools.jpg)
+- ✅ [VSCode Shortcuts & Extensions for Web Developer](https://github.com/MSabbirHossen/certifications/blob/main/VSCode%20Shortcuts%20%26%20Extensions%20for%20Web%20Developers.jpg)
 - ✅ Basic IT Course
 - 🚧 More certifications coming soon...
 
