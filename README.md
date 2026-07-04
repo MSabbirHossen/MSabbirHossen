@@ -5,10 +5,15 @@
 </p>
 
 <p align="center">
-  <h1>Hi 👋, I'm Md. Sabbir Hossen</h1>
-  <strong>Full-Stack Web Developer • Cybersecurity Learner • Lifelong Student</strong><br>
-  Building the future where <strong>Faith, Knowledge & Technology</strong> empower the Ummah.
+  <h1 align="center">Hi 👋, I'm Md. Sabbir Hossen</h1>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Cybersecurity+Learner;Building+Technology+for+the+Ummah;Lifelong+Student"
+    alt="Typing SVG"
+  />
 </p>
+  </p>
 
 ---
 
@@ -29,7 +34,7 @@ I'm a Bangladeshi student currently studying at the **Islamic University of Madi
 
 I enjoy designing modern web applications, solving real-world problems through code, and continuously learning new technologies. My goal is to become a professional **Full-Stack Developer** while building solutions with purpose.
 
-I believe technology should be created with intention—to solve problems and create meaningful impact.
+I believe technology should be created with intention—to solve problems and create meaningful impact. I'm Building the future where <strong>Faith, Knowledge & Technology</strong> empower the Ummah.
 
 ---
 
