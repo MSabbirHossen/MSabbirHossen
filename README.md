@@ -138,14 +138,15 @@ A vibrant, urban-themed web application for discovering, exploring, and download
 
 ## 🏆 Certifications & Achievements
 
-- ✅ IELTS Academic — Band 7.0
-- ✅ [Master Git and GitHub – Beginner to Expert](https://github.com/MSabbirHossen/certifications/blob/main/Master%20Git%20and%20GitHub%20%E2%80%93%20Beginner%20to%20Expert.jpg)
-- ✅ [Master HTML and CSS by Building Real-World Project](https://github.com/MSabbirHossen/certifications/blob/main/Master%20HTML%20and%20CSS%20by%20Building%20Real-World%20Project.jpg)
-- ✅ [Spreadsheets for Beginners using Google Sheets](https://github.com/MSabbirHossen/certifications/blob/main/Spreadsheets%20for%20Beginners%20using%20Google%20Sheets.jpg)
+- ✅ [Complete Web Development Course by Programming Hero](https://drive.google.com/file/d/1TXbu_27BV0e6ttHZ5iOIk0iH6GrYfZYi/view?usp=sharing)
+- ✅ [Master Git and GitHub – Beginner to Expert](https://www.udemy.com/certificate/UC-a15ae6ed-80b0-4d97-a5e9-2151cab255d4/)
+- ✅ [Master HTML and CSS by Building Real-World Project](https://www.udemy.com/certificate/UC-b1ec25ee-3cce-4c6c-b922-efda23d0fc13/)
+- ✅ [Spreadsheets for Beginners using Google Sheets](https://drive.google.com/file/d/1r8K7y5FjHu3nPL9AxtILtfgzrNnhuu6O/view?usp=sharing)
 - ✅ [The Python Tutorial by W3Schools](https://github.com/MSabbirHossen/certifications/blob/main/The%20Python%20Tutorial%20by%20W3Schools.jpg)
-- ✅ [VSCode Shortcuts & Extensions for Web Developer](https://github.com/MSabbirHossen/certifications/blob/main/VSCode%20Shortcuts%20%26%20Extensions%20for%20Web%20Developers.jpg)
-- ✅ [ঘরে বসে Spoken English](https://github.com/MSabbirHossen/certifications/blob/main/%E0%A6%98%E0%A6%B0%E0%A7%87%20%E0%A6%AC%E0%A6%B8%E0%A7%87%20Spoken%20English.jpg)
+- ✅ [VSCode Shortcuts & Extensions for Web Developer](https://www.udemy.com/certificate/UC-827bbc34-b709-4213-bbc0-3dc50b8c6b33/)
+- ✅ [ঘরে বসে Spoken English](https://drive.google.com/file/d/17ccT9CtrD_39vqfjE4bxIm_Xbxsb-5Xy/view?usp=sharing)
 - ✅ Basic IT Course
+- ✅ IELTS Academic — Band 7.0
 - 🚧 More certifications coming soon...
 
 ---
