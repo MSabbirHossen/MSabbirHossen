@@ -153,7 +153,7 @@ A vibrant, urban-themed web application for discovering, exploring, and download
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://portfolio-mshossen.netlify.app/" title="Portfolio Website">
+  <a href="https://portfolio-ashy-chi-34.vercel.app/" title="Portfolio Website">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
@@ -179,8 +179,9 @@ A vibrant, urban-themed web application for discovering, exploring, and download
 |-------|---------|
 | 📍 **Location** | Madinah, Saudi Arabia |
 | 📧 **Email** | mshossen724@gmail.com |
-| 🌐 **Portfolio** | [PORTFOLIO_URL](https://portfolio-mshossen.netlify.app/) |
-| 💼 **LinkedIn** | [LINKEDIN_PORFILE](https://web.facebook.com/sabb1rhossen/) |
+| 🌐 **Portfolio** | [PORTFOLIO_URL](https://portfolio-ashy-chi-34.vercel.app/) |
+| 💼 **Linkedin** | [LINKEDIN_PORFILE](https://www.linkedin.com/in/ms-hossen/) |
+| 💼 **Facebook** | [Facebook_PORFILE](https://web.facebook.com/sabb1rhossen/) |
 
 ---
 
