@@ -30,7 +30,7 @@
 
 ## 🚀 About Me
 
-I'm a Bangladeshi student currently studying at the **Islamic University of Madinah (Saudi Arabia)** pursuing a career in **Software Engineering**.
+I'm a Bangladeshi student currently studying at the **Islamic University of Madinah (Saudi Arabia)** pursuing a career in **Computer Science**.
 
 I enjoy designing modern web applications, solving real-world problems through code, and continuously learning new technologies. My goal is to become a professional **Full-Stack Developer** while building solutions with purpose.
 
