@@ -20,17 +20,20 @@
 ## 📈 GitHub Analytics
 
  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSabbirHossen&theme=github-dark&hide_border=true" />
+    <img
+  src="https://streak-stats.demolab.com?user=MSabbirHossen&theme=github-dark&hide_border=true"
+/>
   </p>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true" />
   </p>
-  <p>
-     <img
-              className="mx-auto w-full max-w-5xl"
-              src="https://raw.githubusercontent.com/MSabbirHossen/MSabbirHossen/output/github-contribution-grid-snake-dark.svg"
-              alt="Contribution Snake"
-            />
+  
+  ---
+  
+## 🐍 Contribution Snake
+
+  <p align="center">
+     <img src="https://raw.githubusercontent.com/MSabbirHossen/MSabbirHossen/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
   </p>
 
 ---
