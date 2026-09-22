@@ -17,6 +17,10 @@
 
 ---
 
+## For AI agents
+
+The generated [`public/llms.txt`](public/llms.txt) provides a concise, data-backed summary for AI tools.
+
 ## 📈 GitHub Analytics
 
  <p align="center">
@@ -27,9 +31,9 @@
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MSabbirHossen&theme=github-compact&hide_border=true" />
   </p>
-  
-  ---
-  
+
+---
+
 ## 🐍 Contribution Snake
 
   <p align="center">
@@ -64,6 +68,7 @@ I believe technology should be created with intention—to solve problems and cr
 ## 💻 Tech Stack
 
 ### Frontend
+
 <p>
   <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html"/>
   <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css"/>
@@ -74,6 +79,7 @@ I believe technology should be created with intention—to solve problems and cr
 </p>
 
 ### Backend
+
 <p>
   <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/>
   <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express"/>
@@ -82,6 +88,7 @@ I believe technology should be created with intention—to solve problems and cr
 </p>
 
 ### Languages & Databases
+
 <p>
   <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python"/>
   <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript"/>
@@ -89,6 +96,7 @@ I believe technology should be created with intention—to solve problems and cr
 </p>
 
 ### Tools & Platforms
+
 <p>
   <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git"/>
   <img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>
@@ -128,21 +136,33 @@ I believe technology should be created with intention—to solve problems and cr
 
 ## 📌 Featured Projects
 
+### 🧭 Life OS
+
+A production-ready, single-user personal operating system that brings journaling, finance, habits, fitness, goals, Islamic tracking, study management, and reporting into one unified dashboard. Built with React, Vite, Tailwind CSS, Node.js, Express, MongoDB, JWT authentication, Recharts, and secure deployment workflows.
+
+- 🔗 **Live Demo:** [Life OS](https://lifeosclient.vercel.app)
+- 🔗 **Repository:** [Life_OS_REPO_LINK](https://github.com/MSabbirHossen/Life-OS)
+
 ### 🌐 Digital Life Lessons
+
 A comprehensive platform where users can create, share, and discover meaningful life lessons and personal growth insights. Built with React, Node.js, Express, MongoDB, Firebase, and Stripe.
-- 🔗 **Live Demo:**  [PROJECT_LINK](https://digital-life-lessons-client.vercel.app/)
+
+- 🔗 **Live Demo:** [PROJECT_LINK](https://digital-life-lessons-client.vercel.app/)
 - 🔗 **Repository:** [Digital_Life_Lessons_REPO_LINK](https://github.com/MSabbirHossen/Digital-Life-Lessons.git)
 
 ### Import Export Hub
+
 A full-stack MERN marketplace platform that connects exporters with importers. Browse products, manage listings, and streamline the import-export process.
+
 - 🔗 **Live Demo:** [PROJECT_LINK](https://import-export-hub-client.vercel.app/)
 - 🔗 **Repository:** [Import_Export_Hub_REPO_LINK](https://github.com/MSabbirHossen/export-import-project.git)
 
 ### GameHub - Online Game Library
+
 A vibrant, urban-themed web application for discovering, exploring, and downloading indie games and AAA titles. GameHub provides an engaging platform for gamers to browse games, view detailed information, and connect with gaming communities.
+
 - 🔗 **Live Demo:** [PROJECT_LINK](https://online-game-library.web.app/)
 - 🔗 **Repository:** [GameHub_REPO_LINK](https://github.com/MSabbirHossen/Online-Game-Library.git)
-
 
 ---
 
@@ -164,20 +184,20 @@ A vibrant, urban-themed web application for discovering, exploring, and download
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://portfolio-ashy-chi-34.vercel.app/" title="Portfolio Website" target="_blank">
+  <a href="https://msabbirhossen.github.io/" title="Portfolio Website">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ms-hossen/" title="LinkedIn Profile" target="_blank">
+  <a href="https://www.linkedin.com/in/sabb1rhossen/" title="LinkedIn Profile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://web.facebook.com/sabb1rhossen/" title="Facebook Profile" target="_blank">
+  <a href="https://web.facebook.com/sabb1rhossen/" title="Facebook Profile">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   &nbsp;&nbsp;
-  <a href="mailto:mshossen724@gmail.com" title="Send me an Email" target="_blank">
+  <a href="mailto:mshossen724@gmail.com" title="Send me an Email">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -186,13 +206,13 @@ A vibrant, urban-themed web application for discovering, exploring, and download
 
 ## 📍 Contact Information
 
-| Field | Details |
-|-------|---------|
-| 📍 **Location** | Madinah, Saudi Arabia |
-| 📧 **Email** | mshossen724@gmail.com |
-| 🌐 **Portfolio** | [PORTFOLIO_URL](https://portfolio-ashy-chi-34.vercel.app/) |
-| 💼 **Linkedin** | [LINKEDIN_PORFILE](https://www.linkedin.com/in/ms-hossen/) |
-| 💼 **Facebook** | [Facebook_PORFILE](https://web.facebook.com/sabb1rhossen/) |
+| Field            | Details                                                    |
+| ---------------- | ---------------------------------------------------------- |
+| 📍 **Location**  | Madinah, Saudi Arabia                                      |
+| 📧 **Email**     | mshossen724@gmail.com                                      |
+| 🌐 **Portfolio** | [PORTFOLIO_URL](https://msabbirhossen.github.io/) |
+| 💼 **Linkedin**  | [LINKEDIN_PORFILE](https://www.linkedin.com/in/sabb1rhossen/) |
+| 💼 **Facebook**  | [Facebook_PORFILE](https://web.facebook.com/sabb1rhossen/) |
 
 ---
 
