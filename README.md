@@ -19,7 +19,7 @@
 
 ## For AI agents
 
-The generated [`public/llms.txt`](public/llms.txt) provides a concise, data-backed summary for AI tools.
+The generated [`/llms.txt`](llms.txt) provides a concise, data-backed summary for AI tools.
 
 ## 📈 GitHub Analytics
 
