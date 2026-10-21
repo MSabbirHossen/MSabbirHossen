@@ -19,7 +19,7 @@
 
 ## For AI agents
 
-The generated [`/llms.txt`](llms.txt) provides a concise, data-backed summary for AI tools.
+The generated [`public/llms.txt`](public/llms.txt) provides a concise, data-backed summary for AI tools.
 
 ## 📈 GitHub Analytics
 
@@ -73,6 +73,7 @@ I believe technology should be created with intention—to solve problems and cr
   <img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html"/>
   <img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css"/>
   <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript"/>
+  <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>
   <img title="React" alt="React" src="https://skillicons.dev/icons?i=react"/>
   <img title="Next.js" alt="Next.js" src="https://skillicons.dev/icons?i=nextjs"/>
   <img title="Tailwind CSS" alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind"/>
@@ -84,20 +85,24 @@ I believe technology should be created with intention—to solve problems and cr
   <img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/>
   <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express"/>
   <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>
+  <img title="PostgreSQL" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>
   <img title="Firebase" alt="Firebase" src="https://skillicons.dev/icons?i=firebase"/>
 </p>
 
 ### Languages & Databases
 
 <p>
-  <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python"/>
   <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=javascript"/>
+  <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>
+  <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python"/>
   <img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/>
+  <img title="PostgreSQL" alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres"/>
 </p>
 
 ### Tools & Platforms
 
 <p>
+  <img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker"/>
   <img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git"/>
   <img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github"/>
   <img title="VS Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/>
@@ -136,10 +141,23 @@ I believe technology should be created with intention—to solve problems and cr
 
 ## 📌 Featured Projects
 
+### 🎓 Exploratory Training Academy (ETA) - Full-Stack EdTech Monorepo
+
+<p align="center">
+  <img src="public/screenshots/eta-dashboard.png" alt="Exploratory Training Academy application preview" width="100%"/>
+</p>
+
+An enterprise-grade, multi-tenant academic and training operating system consolidating curriculum planning, interactive examinations with server-authoritative integrity, live attendance tracking, GPA gradebook publishing, guardian monitoring, tuition billing, bilingual (EN/AR RTL) localization, offline-first PWA, and an educational AI assistant ("Ask ETA") into a unified Turborepo monorepo.
+
+- **Tech stack:** TypeScript, Next.js 15, React 19, Node.js, Express, MongoDB Atlas, Firebase Auth, Tailwind CSS v4, Turborepo, Vercel, OpenAI (RAG)
+- 🔗 **Live Demo:** [ETA Platform](https://eta-web-omega.vercel.app/)
+- 🔗 **Repository:** [ETA Repository](https://github.com/MSabbirHossen/ETA)
+
 ### 🧭 Life OS
 
 A production-ready, single-user personal operating system that brings journaling, finance, habits, fitness, goals, Islamic tracking, study management, and reporting into one unified dashboard. Built with React, Vite, Tailwind CSS, Node.js, Express, MongoDB, JWT authentication, Recharts, and secure deployment workflows.
 
+- **Tech stack:** React, Vite, Tailwind CSS, Node.js, Express, MongoDB, JWT, Recharts
 - 🔗 **Live Demo:** [Life OS](https://lifeosclient.vercel.app)
 - 🔗 **Repository:** [Life_OS_REPO_LINK](https://github.com/MSabbirHossen/Life-OS)
 
@@ -147,21 +165,36 @@ A production-ready, single-user personal operating system that brings journaling
 
 A comprehensive platform where users can create, share, and discover meaningful life lessons and personal growth insights. Built with React, Node.js, Express, MongoDB, Firebase, and Stripe.
 
-- 🔗 **Live Demo:** [PROJECT_LINK](https://digital-life-lessons-client.vercel.app/)
+- **Tech stack:** MongoDB, Express.js, React 18, Node.js, Firebase Auth, Stripe API, Vite, Tailwind CSS
+- 🔗 **Live Demo:** [Digital Life Lessons](https://digital-life-lessons-client.vercel.app/)
 - 🔗 **Repository:** [Digital_Life_Lessons_REPO_LINK](https://github.com/MSabbirHossen/Digital-Life-Lessons.git)
 
-### Import Export Hub
+### 📦 Import Export Hub
 
-A full-stack MERN marketplace platform that connects exporters with importers. Browse products, manage listings, and streamline the import-export process.
+A full-stack MERN marketplace platform that connects exporters with importers. Browse products, manage listings, and streamline the import-export process with MongoDB Atlas, Express.js, React, Node.js, and Firebase Auth.
 
-- 🔗 **Live Demo:** [PROJECT_LINK](https://import-export-hub-client.vercel.app/)
+- **Tech stack:** MongoDB Atlas, Express.js, React 18, Node.js, Firebase Admin SDK, Vite, Tailwind CSS
+- 🔗 **Live Demo:** [Import Export Hub](https://import-export-hub-client.vercel.app/)
 - 🔗 **Repository:** [Import_Export_Hub_REPO_LINK](https://github.com/MSabbirHossen/export-import-project.git)
 
-### GameHub - Online Game Library
+### 🎬 MovieExplorer - Discover TV Shows & Movies
+
+<p align="center">
+  <img src="https://github.com/MSabbirHossen/MSabbirHossen.github.io/blob/main/public/screenshots/eta-dashboard.png" alt="MovieExplorer application preview" width="100%"/>
+</p>
+
+A modern React application for discovering TV shows and movies through the TVMaze API. Browse a paginated catalog, search with debounced requests, filter and sort titles, inspect rich show details, and save favorites to a persistent watchlist.
+
+- **Tech stack:** React 19, Vite, Tailwind CSS v4, Context API, TVMaze REST API, localStorage
+- 🔗 **Live Demo:** [MovieExplorer](https://movieexplorer-pink.vercel.app)
+- 🔗 **Repository:** [MovieExplorer_REPO_LINK](https://github.com/MSabbirHossen/movieExplorer)
+
+### 🎮 GameHub - Online Game Library
 
 A vibrant, urban-themed web application for discovering, exploring, and downloading indie games and AAA titles. GameHub provides an engaging platform for gamers to browse games, view detailed information, and connect with gaming communities.
 
-- 🔗 **Live Demo:** [PROJECT_LINK](https://online-game-library.web.app/)
+- **Tech stack:** React 19, Vite, Firebase, Tailwind CSS v4, DaisyUI, Framer Motion
+- 🔗 **Live Demo:** [GameHub](https://online-game-library.web.app/)
 - 🔗 **Repository:** [GameHub_REPO_LINK](https://github.com/MSabbirHossen/Online-Game-Library.git)
 
 ---
@@ -206,13 +239,13 @@ A vibrant, urban-themed web application for discovering, exploring, and download
 
 ## 📍 Contact Information
 
-| Field            | Details                                                    |
-| ---------------- | ---------------------------------------------------------- |
-| 📍 **Location**  | Madinah, Saudi Arabia                                      |
-| 📧 **Email**     | mshossen724@gmail.com                                      |
-| 🌐 **Portfolio** | [PORTFOLIO_URL](https://msabbirhossen.github.io/) |
+| Field            | Details                                                       |
+| ---------------- | ------------------------------------------------------------- |
+| 📍 **Location**  | Madinah, Saudi Arabia                                         |
+| 📧 **Email**     | mshossen724@gmail.com                                         |
+| 🌐 **Portfolio** | [PORTFOLIO_URL](https://msabbirhossen.github.io/)             |
 | 💼 **Linkedin**  | [LINKEDIN_PORFILE](https://www.linkedin.com/in/sabb1rhossen/) |
-| 💼 **Facebook**  | [Facebook_PORFILE](https://web.facebook.com/sabb1rhossen/) |
+| 💼 **Facebook**  | [Facebook_PORFILE](https://web.facebook.com/sabb1rhossen/)    |
 
 ---
 
