@@ -144,7 +144,7 @@ I believe technology should be created with intention—to solve problems and cr
 ### 🎓 Exploratory Training Academy (ETA) - Full-Stack EdTech Monorepo
 
 <p align="center">
-  <img src="public/screenshots/eta-dashboard.png" alt="Exploratory Training Academy application preview" width="100%"/>
+  <img src="https://github.com/MSabbirHossen/MSabbirHossen.github.io/blob/c13163df1978f48dc2cb8563ff8c6f23b7c0a3c3/public/screenshots/eta-dashboard.png" alt="Exploratory Training Academy application preview" width="100%"/>
 </p>
 
 An enterprise-grade, multi-tenant academic and training operating system consolidating curriculum planning, interactive examinations with server-authoritative integrity, live attendance tracking, GPA gradebook publishing, guardian monitoring, tuition billing, bilingual (EN/AR RTL) localization, offline-first PWA, and an educational AI assistant ("Ask ETA") into a unified Turborepo monorepo.
@@ -180,7 +180,7 @@ A full-stack MERN marketplace platform that connects exporters with importers. B
 ### 🎬 MovieExplorer - Discover TV Shows & Movies
 
 <p align="center">
-  <img src="https://github.com/MSabbirHossen/MSabbirHossen.github.io/blob/main/public/screenshots/eta-dashboard.png" alt="MovieExplorer application preview" width="100%"/>
+  <img src="https://github.com/MSabbirHossen/MSabbirHossen.github.io/blob/c13163df1978f48dc2cb8563ff8c6f23b7c0a3c3/public/screenshots/movie-explorer-hero.png" alt="MovieExplorer application preview" width="100%"/>
 </p>
 
 A modern React application for discovering TV shows and movies through the TVMaze API. Browse a paginated catalog, search with debounced requests, filter and sort titles, inspect rich show details, and save favorites to a persistent watchlist.
